@@ -864,27 +864,5 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
-.carousel .carousel-item {
-    width: 100%;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-}
 
-.carousel .carousel-item:first-of-type {
-    background-image: url("https://via.placeholder.com/300.png/f43347/f43347");
-}
-
-.carousel .carousel-item:nth-of-type(2) {
-    background-image: url("http://s9.favim.com/orig/130806/flower-flowers-photography-pink-Favim.com-833641.jpg");
-}
-
-.carousel .carousel-item:last-of-type {
-    background-image: url("https://4.bp.blogspot.com/-pxMLcrD3N7I/UjAMNkqM43I/AAAAAAAAABQ/2-etadUS_48/s640/flowers.jpg");
-}
-
-.carousel-control-prev-icon, .carousel-control-next-icon {
-    width: 50px;
-    height: 50px;
-}
 
